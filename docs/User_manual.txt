@@ -1,0 +1,86 @@
+									USER-MANUAL
+	
+							
+									Getting Started
+- 		The first thing you must do before going any further into this guide is to access the 
+	website by typing "http://74.136.197.45:8080/registration/home.php" into the address bar.
+	
+							
+									Creating Account
+-		To create an account, you must click on the "Create New Account" link that is located
+	at the top-right of the page.
+-		Next, you will be redirected to a registration page. Here you must input your username
+	(Note: this is what you will be known as on this website.), your password (Note: this
+	is what you will use to sign into your account whenever you log off). For the confirm
+	password section, you must input your password that you entered above again in order to
+	verify that there has been no errors in the received password. Lastly, you must register
+	your account with an email by using any email source (Note: these sources include gmail,
+	hotmail, yahoo, etc.).
+-		After you have filled out all of these fields, you may click the "Register" button 
+	and you will be redirected to a page telling you your account has been created, or
+	that there has been an error in creating your account. If there is an error, please 
+	try to reregister and make sure there are no differences between the inputs for the
+	"Password" and "Confirm Password" sections.
+								
+									Logging In
+-		After you have created an account, you will automatically be logged in, in order to
+	logout, proceed to the "http://74.136.197.45:8080/registration/home.php" page, once here, you will see
+	in the top-left corner a link with the text "Log Out" on it, click this button and you 
+	will log out of your account.
+-		In order to log in again, go back to "http://74.136.197.45:8080/registration/home.php", here, if you 
+	do not see the logout button in the previous step, you will see a "Login" button located
+	on the top-right of the page, click this button.
+-		After you have clicked the "Login" button, you will be redirected to the login page.
+	At the login page, input the username you signed up with, in the "Creating Account"
+	segment located above, into the "Username" field. in the "Password" field, input the
+	password that you signed up with the the "Creating Account" segment above.
+-		After these field are filled out, you will be redirected to a login success page, or 
+	a login failed page, if the login failed, please reinput your information and make sure
+	that there are no spelling mistakes.
+	
+									Browsing Polls
+-		Before you can browse polls, verify you are logged in by completing the "Logging In" 
+	section above.
+-		once you are logged in, navigate to the "http://74.136.197.45:8080/registration/home.php" page.
+-		Once you are on this page, on the top-right of the screen, there will be a link with
+	the text "Browse Polls", click this link.
+-		Once you have clicked this link, you will be redirected to the Browse Polls page.
+	On this page, there will be a link of polls on the left side of the screen, click any
+	poll that you would like to browse, or if you would like to return to the home screen
+	click "Home".
+	
+									Voting
+-		Once you have completed the "Browsing Polls" section above, you will be on the
+	page of the poll you wish to vote for.
+-		Underneath the two images in the center of your screen once you load up a poll,
+	there will be two buttons, each with a varying name related to the two options being
+	voted on, click on one of these options in order to place your vote. (Note: a user may
+	only vote once per poll.)
+	
+									Commenting
+-		Once you have completed the "Browsing Polls" section above, you will be on the
+	page of the poll you wish to comment on.
+-		Scroll down past the two images and you will see a large white rectangle, you are
+	allowed to input text inside this box in order to post a comment to the page you are
+	currently on.(Note: you must be logged in to do so.)
+-		Underneath the white rectangle, there will be a "Comments:" section, here you are
+	able to see any comment that has been posted for the poll you are currently on.
+	
+									Creating Polls
+
+-		Before you can create polls, verify you are logged in by completing the "Logging In" 
+	section above.
+-		once you are logged in, navigate to the "http://74.136.197.45:8080/registration/home.php" page.
+-		Once you are on this page, on the top-right of the screen, there will be a link with
+	the text "Create Poll", click this link.
+-		Once you have clicked this link, you will be redirected to the Create Poll page.
+	Once on this page, you will need to input the name of your poll under the "Poll Title"
+	section. In the field for "Option 1", you will need to input the first section to be voted
+	on I.E. Blue or Red. Option 1 = Blue. In the field for "Option 2", you will need to put
+	the second option to be voted on. I.E. Blue or Red. Option 2 = Red.
+	Lastly, there is a button named "Choose File" beside "Image 1" and "Image 2", you are
+	reqyured to choose an image of the items being voted on for the poll. "Image 1" is an
+	image of "Option 1" and "Image 2" is an image for "Option 2".
+-		Once you have filled in all of the fields, click the "Create Poll" below the text
+	field and your poll is created. For how to use the poll page, view "Browsing Polls",
+	"Voting" and "Commenting" sections above.

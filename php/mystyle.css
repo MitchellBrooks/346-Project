@@ -1,0 +1,24 @@
+
+	  body{
+		  background-color: skyblue;
+		  background-image: url("clouds.jpg");
+	  }
+	  p.heading{
+		background-color: white;
+		width: 250px;
+		padding: 10px;
+		margin-left: auto;
+		margin-right: auto;
+		border: 1px solid navy;
+		padding-left: auto;
+		padding-right: auto;
+		text-align: center;
+	  }
+	  table.polls{
+		background-color: white;
+		width:100px;
+		height: 100px;
+		padding: 10px;
+		border: 1px solid navy;
+		margin: auto;
+	  }
